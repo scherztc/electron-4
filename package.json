@@ -1,14 +1,15 @@
 {
-  "name": "electron-4",
+  "name": "RefQuest",
   "version": "1.0.0",
-  "description": "Project for my Electron Course",
+  "description": "Project to organize Reference Questions",
   "main": "index.js",
   "scripts": {
     "start": "electron ."
   },
-  "author": "Ray Villalobos",
+  "author": "Thomas Scherz",
   "license": "ISC",
   "devDependencies": {
-    "electron": "^4.1.4"
-  }
+    "electron": "^28.2.0"
+  },
+  "keywords": []
 }
